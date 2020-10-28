@@ -8,7 +8,7 @@ namespace _1
     {
       // C#
       SByte a = 0;
-      Byte b = 0;
+      Byte b = 0; 
       Int16 c = 0;
       Int32 d = 0;
       Int64 e = 0;
